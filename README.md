@@ -74,6 +74,8 @@
 </p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himashi&theme=radical" />
+
+<img src="https://metrics.lecoq.io/Himashi?template=classic&base.activity=community" />
 ---
 
 ### 📊 GitHub Stats:
