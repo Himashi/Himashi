@@ -82,5 +82,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himashi&layout=compact&theme=radical" width="48%" />
 </p>
 
+<img src="https://github-stats-extended.vercel.app/api?username=Himashi&show_icons=true&theme=radical" width="48%" />
 ---
 
